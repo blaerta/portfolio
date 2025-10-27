@@ -1,0 +1,89 @@
+{
+  "name": "Lucas Ribeiro",
+  "photo": "https://avatars.githubusercontent.com/u/197320144?s=400&u=f728681c1cf9f3b01d18487c869b659e64d4f3e9&v=4",
+  "job": "Junior Developer",
+  "location": "São Paulo - Brasil",
+  "phone": "(11) 95350-7588",
+  "email": "blaerta1@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "JavaScript",
+        "logo": "/assets/icons/js.svg"
+      },
+      {
+        "name": "HTML",
+        "logo": "/assets/icons/html.svg"
+      },
+      {
+        "name": "CSS",
+        "logo": "/assets/icons/css.svg"
+      },
+      {
+        "name": "MySQL and Databases",
+        "logo": "/assets/icons/sql.svg"
+      },
+      {
+        "name": "Pacote Office",
+        "logo": "/assets/icons/excel.svg"
+      },
+      {
+        "name": "Python",
+        "logo": "/assets/icons/python.svg"
+      }
+    ],
+    "softSkills": [
+      "Certificação Lean Six Sigma: Yellow Belt, pela FM2S.",
+      "Capacidade de resolução de problemas.",
+      "Capacidade Analítica orientada a detalhes.",
+      "Trabalho em Equipe.",
+      "Experiência com atendimento personalizado."
+    ]
+  },
+  "languages": [
+    "Português",
+    "Inglês",
+    "Espanhol"
+  ],
+  "portfolio": [
+    {
+      "name": "Pokédex usando a PokeAPI",
+      "url": "https://github.com/blaerta/pokemon-pokedex",
+      "github": true
+    },
+    {
+      "name": "GAIA AI FRAMEWORK",
+      "url": "https://github.com/blaerta/gaia-framework",
+      "github": true
+    },
+    {
+      "name": ".alg Programming Language",
+      "url": "https://github.com/blaerta/.alg",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Especialista de Marketing Digital / Teleperformance",
+      "period": "Janeiro de 2023 à Dezembro de 2024",
+      "description": [
+      "Contato com Anunciantes: Gerenciamento de clientes e alinhamento de estratégias para maximizar campanhas.",
+      "Planejamento de Marketing: Criação e execução de planos digitais para engajamento e crescimento da marca.",
+      "Análise e Otimização: Monitoramento e ajustes de dados para eficácia e ROI.",
+      "Colaboração Interdisciplinar: Trabalho com equipes criativas e de tecnologia para campanhas inovadoras.",
+      "Foco em Resultados: Aumento da visibilidade e performance das marcas, garantindo crescimento e identidade."
+      ]
+    },
+    {
+      "name": "Analista de Fraude/Recuperador de Crédito Júnior / CreditCash",
+      "period": "Setembro de 2017 à Maio de 2019",
+      "description": [
+      "Análise de casos de fraude telefônica a partir de informações fornecidas pelo cliente, seguindo procedimento estabelecido enquanto serve o caso ao setor de resolução.",
+      "Experiência com os Sistemas de Comunicação: Néctar e Crystal.",
+      "Constante contato com a Gerência a fim de determinar melhores cursos de ação na resolução dos problemas do Cliente.",
+      "Recuperação de Crédito de clientes de uma das grandes empresas de telecomunicações do país."
+      ]
+    }
+
+  ]
+}

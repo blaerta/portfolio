@@ -1,0 +1,42 @@
+.experience {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.experience .title {
+    margin-top: 1rem;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.experience .period {
+    margin: 1rem;
+    font-style: italic;
+    position: relative;
+}
+
+.experience .period::before {
+    content: '';
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url('/assets/icons/dates.svg');
+    margin-right: .5rem;
+    vertical-align: middle;
+}
+
+.experience ul {
+    list-style-type: disc;
+    padding-left: 2rem;
+    margin: .5rem 0;
+}
+
+.experience ul li {
+    margin: .25rem 0;
+}
