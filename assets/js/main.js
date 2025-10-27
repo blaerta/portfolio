@@ -1,6 +1,6 @@
 async function fetchProfileData() {
     try {
-    const response = await fetch('/data/profile.json');
+    const response = await fetch('../profile.json');
     if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`);
     }
@@ -101,7 +101,7 @@ function updateProfessionalExperience(profileData) {
   async function fetchProfileData() {
     try {
       console.log('Attempting to fetch /data/profile.json');
-      const response = await fetch('/data/profile.json');
+      const response = await fetch('/../profile.json');
       if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
       const data = await response.json();
       console.log('Data fetched:', data);
