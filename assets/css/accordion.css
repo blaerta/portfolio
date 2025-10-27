@@ -62,7 +62,7 @@
     height: 40px;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('/assets/icons/down.svg');
+    background-image: url('assets//icons/down.svg');
     transition: 1s;
 }
 

@@ -26,7 +26,7 @@
     align-items: center;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('/assets/icons/dates.svg');
+    background-image: url('assets//icons/dates.svg');
     margin-right: .5rem;
     vertical-align: middle;
 }
