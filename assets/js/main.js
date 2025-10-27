@@ -1,6 +1,6 @@
 async function fetchProfileData() {
     try {
-    const response = await fetch('./data/profile.json');
+    const response = await fetch('/data/profile.json');
     if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`);
     }
@@ -96,3 +96,23 @@ function updateProfessionalExperience(profileData) {
         console.error('Error in main script: ', error);
     }
 })()
+
+  console.log('Test: JS is running on GitHub Pages');
+  async function fetchProfileData() {
+    try {
+      console.log('Attempting to fetch /data/profile.json');
+      const response = await fetch('/data/profile.json');
+      if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
+      const data = await response.json();
+      console.log('Data fetched:', data);
+      return data;
+    } catch (error) {
+      console.error('Fetch error:', error.message);
+      return null;
+    }
+  }
+  (async () => {
+    console.log('Main script starting');
+    const profileData = await fetchProfileData();
+    if (!profileData) console.error('No profile data loaded.');
+  })();
