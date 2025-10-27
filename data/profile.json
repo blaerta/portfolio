@@ -9,27 +9,27 @@
     "hardSkills": [
       {
         "name": "JavaScript",
-        "logo": "assets//icons/js.svg"
+        "logo": "assets/icons/js.svg"
       },
       {
         "name": "HTML",
-        "logo": "assets//icons/html.svg"
+        "logo": "assets/icons/html.svg"
       },
       {
         "name": "CSS",
-        "logo": "assets//icons/css.svg"
+        "logo": "assets/icons/css.svg"
       },
       {
         "name": "MySQL and Databases",
-        "logo": "assets//icons/sql.svg"
+        "logo": "assets/icons/sql.svg"
       },
       {
         "name": "Pacote Office",
-        "logo": "assets//icons/excel.svg"
+        "logo": "assets/icons/excel.svg"
       },
       {
         "name": "Python",
-        "logo": "assets//icons/python.svg"
+        "logo": "assets/icons/python.svg"
       }
     ],
     "softSkills": [
