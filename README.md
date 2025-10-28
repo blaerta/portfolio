@@ -20,18 +20,6 @@ Este portfólio é uma página web dinâmica e responsiva que carrega meus dados
 ## Demonstração ao Vivo
 Confira a versão ao vivo aqui: [https://blaerta.github.io/portfolio/](https://blaerta.github.io/portfolio/)
 
-## Estrutura de Arquivos
-portfolio/
-├── assets/
-│   ├── css/          # Arquivos CSS (global.css, header.css, etc.)
-│   ├── js/           # Arquivos JavaScript (main.js)
-│   ├── icons/        # Ícones SVG (number.svg, loc.svg, etc.)
-│   ├── fonts/        # Fontes personalizadas (NeueMachina-Regular.otf)
-│   └── img/          # Imagens (background3.jpeg, person.svg)
-├── data/             # Dados JSON (profile.json)
-├── index.html        # Arquivo HTML principal
-└── README.md         # Este arquivo
-
 ## Agradecimentos
 
 Obrigado à comunidade xAI e às ferramentas de suporte durante o desenvolvimento.
