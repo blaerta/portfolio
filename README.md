@@ -14,8 +14,10 @@ Este portfólio é uma página web dinâmica e responsiva que carrega meus dados
 ## Tecnologias Utilizadas
 - **HTML5**: Estrutura da página web.
 - **CSS3**: Estilização com ativos personalizados (ícones, fontes, imagens).
+- **Google Fonts***: Fontes e ícones.
 - **JavaScript**: Gerencia a busca de dados e atualizações no DOM.
 - **GitHub Pages**: Hospeda o site ao vivo.
+
 
 ## Demonstração ao Vivo
 Confira a versão ao vivo aqui: [https://blaerta.github.io/portfolio/](https://blaerta.github.io/portfolio/)
